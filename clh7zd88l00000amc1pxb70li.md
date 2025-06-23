@@ -50,7 +50,6 @@ Let's say you have an Excel report which gives you monthly, weekly or daily repo
     
     `End Sub`
     
-
 * The first line `Sub HideRowsWithValueZero()` starts the macro and gives it a name.
     
 * The next two lines `Dim lastRow As Long` and `Dim i As Long` declare variables for later use.
@@ -247,6 +246,12 @@ Let's say you have an Excel report which gives you monthly, weekly or daily repo
     
 * Overall, this macro allows users to extract the unique values in column A of one sheet and write them to another sheet, which can be useful for data analysis and management purposes.
     
-    ### **The above ones are only a few examples, I have tried to keep it as detailed as possible. The possibilities are endless for what you can do with it, play with it and Please do let me know, if you have any questions or queries, You can always connect with me over LinkedIn,** [**click here**](https://www.linkedin.com/in/shishir-srivastav/) **to connect.**
+    ### **The above ones are only a few examples. I have tried to keep it as detailed as possible. The possibilities are endless for what you can do with it, play with it.**
     
-    *Note: I have taken help from chatGPT in writing and arranging this, while it is a great tool for assistance, it will never take us out of jobs, at least not for a few years, so till then ride the wave.*
+* Thanks for coming this far in the article. I hope I was able to explain the concept well enough. If you face any issues, please feel free to reach out to me; I'd be happy to help.
+    
+    ## 🔗 Let’s stay connected!
+    
+    [🌐 Linktree](https://linktr.ee/shishirsrivastav)| [🐦 X](https://x.com/shishir_who)| [📸 Instagram](https://www.instagram.com/programmatic.ly)| [▶️ YouTube](https://www.youtube.com/channel/UCCZiCzPtg9pmDwChJ4ROIpA) [✍️ Hashnode](https://hashnode.com/@ShishirSrivastav)| [💻 GitHub](https://github.com/Shishir420-GIT)| [🔗 LinkedIn](https://www.linkedin.com/in/shishir-srivastav)| [🤝 Topmate](https://topmate.io/shishir_srivastav) [🏅 Credly](https://www.credly.com/users/shishir-srivastav-who)
+    
+    © 2025 Shishir Srivastav. All rights reserved.
