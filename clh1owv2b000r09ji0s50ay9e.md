@@ -28,4 +28,10 @@ Note: The developer tab in Excel is not enabled by default, you have to go to Cu
 
 By using macros, you can save time and increase productivity while working with Excel. I hope you find this information helpful. Happy Learning, Happy Journey!
 
-[Shishir Srivastav](https://in.linkedin.com/in/shishir-srivastav?trk=profile-badge), do reach out to me on Linkedin for any queries.
+Thanks for coming this far in the article. I hope I was able to explain the concept well enough. If you face any issues, please feel free to reach out to me; I'd be happy to help.
+
+## 🔗 Let’s stay connected!
+
+[🌐 Linktree](https://linktr.ee/shishirsrivastav)| [🐦 X](https://x.com/shishir_who)| [📸 Instagram](https://www.instagram.com/programmatic.ly)| [▶️ YouTube](https://www.youtube.com/channel/UCCZiCzPtg9pmDwChJ4ROIpA) [✍️ Hashnode](https://hashnode.com/@ShishirSrivastav)| [💻 GitHub](https://github.com/Shishir420-GIT)| [🔗 LinkedIn](https://www.linkedin.com/in/shishir-srivastav)| [🤝 Topmate](https://topmate.io/shishir_srivastav) [🏅 Credly](https://www.credly.com/users/shishir-srivastav-who)
+
+© 2025 Shishir Srivastav. All rights reserved.
