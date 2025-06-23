@@ -87,9 +87,9 @@ This is so the AI knows which function to use and how, as shown in an example be
 | **Scenario** | **Agentic AI Use fit?** |
 | --- | --- |
 | Researching the best laptop under 50,000, comparing 3 options, and emailing a summary. | AI uses reasoning to define tasks and accomplish them in order, and then proceeds to complete the task after receiving the go-ahead command. |
-| Diagnosing a server failure: logs, metrics, root cause, fix suggestion |
-| Drafting a legal agreement based on company policy, laws, and client needs. |
-| Scraping some webpages when trying to find information that is not available in the database. |
+| Diagnosing a server failure: logs, metrics, root cause, fix suggestion |  |
+| Drafting a legal agreement based on company policy, laws, and client needs. |  |
+| Scraping some webpages when trying to find information that is not available in the database. |  |
 
 ### **Description for Agentic AI:**
 
@@ -191,10 +191,10 @@ To check part 1 of this blog navigate [here](https://shishirsrivastav.hashnode.d
 
 ---
 
-Thanks for coming this far in the article, I Hope I was able to explain the concept well enough. If in any case, you face any issues please feel free to reach out to me, I'd be happy to help.
+Thanks for coming this far in the article. I hope I was able to explain the concept well enough. If you face any issues, please feel free to reach out to me; I'd be happy to help.
 
-LinkedIn URL - [**Shishir Srivastav**](https://www.linkedin.com/in/shishir-srivastav/)
+## 🔗 Let’s stay connected!
 
-Scan the below QR for more.
+[🌐 Linktree](https://linktr.ee/shishirsrivastav)| [🐦 X](https://x.com/shishir_who)| [📸 Instagram](https://www.instagram.com/programmatic.ly)| [▶️ YouTube](https://www.youtube.com/channel/UCCZiCzPtg9pmDwChJ4ROIpA) [✍️ Hashnode](https://hashnode.com/@ShishirSrivastav)| [💻 GitHub](https://github.com/Shishir420-GIT)| [🔗 LinkedIn](https://www.linkedin.com/in/shishir-srivastav)| [🤝 Topmate](https://topmate.io/shishir_srivastav) [🏅 Credly](https://www.credly.com/users/shishir-srivastav-who)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1719682276366/1f7ee5ec-3f2a-4dcd-b8b5-f8ce7575f552.png?auto=compress,format&format=webp&auto=compress,format&format=webp align="left")
+© 2025 Shishir Srivastav. All rights reserved.
